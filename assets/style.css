@@ -10,7 +10,7 @@ body {
 }
 
 .miroir {
-	font-size: 9px;
+	font-size: 8px;
 	font-family: Helvetica;
 }
 
@@ -43,13 +43,13 @@ body {
 	width: 497px;
 	border-bottom: solid 1px #A68A99;
 	text-align: center;
-	margin-bottom: 34px;
-	margin-left: 34px;
+	margin-bottom: 32px;
+	margin-left: 32px;
 }
 
 .section2 {
 	font-family: Helvetica;
-	margin-bottom: 34px;
+	margin-bottom: 32px;
 }
 
 .titre {
@@ -60,23 +60,81 @@ body {
 	width: 497px;
 	font-size: 12px;
 	margin-top: 5px;
-	margin-left: 34px;
+	margin-left: 32px;
 }
 
 .section3 {
-	margin-bottom: 34px;
+	margin-bottom: 32px;
 	font-family: Helvetica;
 }
 
+.section3 img {
+	margin-bottom: 32px;
+	margin-top: 32px;
+}
 
+.section3 .nomArtiste {
+	z-index: 2;
+	text-align: right;
+    margin-top: -110px;
+    margin-bottom: 68px;
+    font-size: 14px;
+}
+
+.section3 .nomArtiste.Richard {
+	color: #FFF;
+	margin-left: 192px;
+    position: absolute;
+}
+
+.section3 .nomArtiste.Australian {
+	margin-right: 36px;
+}
+
+.section4 {
+	font-family: Helvetica;
+}
+
+.section4 .texteTelephone {
+	font-size: 11px;
+	text-align: left;
+	margin-top: -5px;
+	margin-bottom: 5px;
+	margin-left: 32px;
+}
+
+.section4 .texteHoraire {
+	font-size: 9px;
+	text-align: left;
+	margin-left: 32px;
+	margin-top: -5px;
+}
+
+.section4 .texteInfo {
+	font-size: 9px;
+	text-align: right;
+	margin-right: 32px;
+	margin-top: -60px;
+}
+
+.section4 .texteDetails {
+	font-size: 9px;
+	text-align: right;
+	margin-right: 32px;
+}
+
+.reseauxSociaux img {
+	height: 12px;
+	margin-right: 20px;
+}
 
 .copyright {
-	font-size: 9px;
+	font-size: 8px;
 	font-family: Helvetica;
 }
 
 .desinscription {
-	font-size: 9px;
+	font-size: 8px;
 	font-family: Helvetica;
 }
 
